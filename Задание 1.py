@@ -1,4 +1,4 @@
-print(1)
+
 my_name = 'Илья'
 my_age = 32
 my_profession = 'Тракторист.'
